@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "sourceMap": true,
+        "lib": [
+            "es5",
+            "dom"
+        ],
+        "removeComments": true,
+        "noUnusedLocals": false,
+        //"module": "commonjs",
+        "watch": true,
+        "outDir": "./src/"
+    }
+}
